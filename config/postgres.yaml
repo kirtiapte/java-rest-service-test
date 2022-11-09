@@ -7,6 +7,8 @@ spec:
   cpu: "0.8"
   # storageClassName: standard
   storageSize: 2G
+  # monitorStorageClassName: standard
+  # monitorStorageSize: 1G
   pgConfig:
     dbname: customer-profile-database
     username: pgadmin

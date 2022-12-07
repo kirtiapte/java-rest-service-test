@@ -6,7 +6,7 @@ metadata:
     "backstage.io/kubernetes-label-selector": "app.kubernetes.io/part-of=customer-profile"
 spec:
   type: service
-  system: yelb
+  system: sc-architecture-system
   lifecycle: experimental
   owner: default-team
   providesApis:

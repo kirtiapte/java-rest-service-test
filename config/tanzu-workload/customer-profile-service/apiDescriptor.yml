@@ -14,7 +14,7 @@ metadata:
 spec:
   type: openapi
   description: open api for tanzu java app
-  system: customer-api
+  system: sc-architecture-system
   owner: demo
   location:
     path: /api-docs
